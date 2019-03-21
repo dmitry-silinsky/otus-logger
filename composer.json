@@ -1,0 +1,25 @@
+{
+    "config": {
+        "sort-packages": true
+    },
+    "name": "dmitry-silinsky/otus-logger",
+    "description": "Simple PSR-3 Logger",
+    "type": "library",
+    "require": {
+        "php": ">=7.1",
+        "psr/log": "^1.1",
+        "ext-PDO": "^7.1",
+        "ext-json": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Otus\\Logger\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Silinsky",
+            "email": "sil.dmitrij@gmail.com"
+        }
+    ]
+}
