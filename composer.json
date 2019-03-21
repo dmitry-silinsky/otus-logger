@@ -7,9 +7,10 @@
     "type": "library",
     "require": {
         "php": ">=7.1",
-        "psr/log": "^1.1",
         "ext-PDO": "^7.1",
-        "ext-json": "^1.5"
+        "ext-json": "^1.5",
+        "phpunit/phpunit": "^7.5",
+        "psr/log": "^1.1"
     },
     "autoload": {
         "psr-4": {
