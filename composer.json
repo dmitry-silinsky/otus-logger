@@ -4,7 +4,9 @@
     },
     "name": "dmitry-silinsky/otus-logger",
     "description": "Simple PSR-3 Logger",
+    "license": "MIT",
     "type": "library",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.1",
         "ext-PDO": "^7.1",
