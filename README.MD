@@ -3,6 +3,6 @@ Is a solution of OTUS homework.
 
 ##### Installation with Composer
 ```
-composer require dmitry-silinsky/otus-logger
+composer require dmitry-silinsky/otus-logger:dev-master
 ```
 Usage examples are in the examples directory.
