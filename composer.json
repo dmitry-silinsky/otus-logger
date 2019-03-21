@@ -6,6 +6,7 @@
   "description": "Simple PSR-3 Logger",
   "license": "MIT",
   "type": "library",
+  "version": "dev-master",
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
